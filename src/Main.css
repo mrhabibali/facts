@@ -1,4 +1,5 @@
-.content {
+main {
+  padding-top: 100px;
   height: 100vh;
   background-color: gainsboro;
 }
@@ -10,16 +11,16 @@
   font-size: 60px;
 }
 
-li::marker {
-  color: green;
-}
-
-ul {
+.facts {
   display: table;
   margin: 0 auto;
 }
 
-li {
+.facts li {
   margin-top: 15x;
   margin-bottom: 15px;
+}
+
+.facts li::marker {
+  color: green;
 }
