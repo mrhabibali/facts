@@ -1,0 +1,22 @@
+.app-logo {
+  width: 60px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+
+.logo-with-text {
+  display: flex;
+}
+
+.logotext {
+  color: #61dafb;
+}
+
+.navbartitle {
+  color: aliceblue;
+  margin-right: 20px;
+}

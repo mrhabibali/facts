@@ -1,0 +1,25 @@
+.content {
+  height: 100vh;
+  background-color: gainsboro;
+}
+
+.title {
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+  font-size: 60px;
+}
+
+li::marker {
+  color: green;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+li {
+  margin-top: 15x;
+  margin-bottom: 15px;
+}
