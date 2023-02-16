@@ -1,7 +1,3 @@
-.app-logo {
-  width: 60px;
-}
-
 .flex-container {
   display: flex;
   justify-content: space-between;
@@ -10,6 +6,10 @@
 
 .logo-with-text {
   display: flex;
+}
+
+.app-logo {
+  width: 60px;
 }
 
 .logotext {
